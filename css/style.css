@@ -1,5 +1,8 @@
 body {
-  background-color: #f9f7fe;
+
+  
+background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/109/034/original/wide-building-clock.jpeg?1704259314");
+background-size: cover;
   font-family: sans-serif;
 }
 
