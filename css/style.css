@@ -1,6 +1,6 @@
 body {
 background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/109/034/original/wide-building-clock.jpeg?1704259314");
-background-size:cover;
+background-size: cover;
 background-repeat: no-repeat;
 display: block;
 margin: auto;
@@ -30,6 +30,7 @@ select {
   max-width: 400px;
   margin: 60px auto;
   background: white;
+  opacity: 80%;
   padding: 30px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   border-radius: 10px;
