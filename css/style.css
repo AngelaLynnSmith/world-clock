@@ -1,9 +1,10 @@
 body {
-
-  
 background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/109/034/original/wide-building-clock.jpeg?1704259314");
-background-size: cover;
-  font-family: sans-serif;
+background-size:cover;
+background-repeat: no-repeat;
+display: block;
+margin: auto;
+font-family: sans-serif;
 }
 
 h1 {
@@ -26,7 +27,7 @@ select {
 }
 
 .container {
-  max-width: 600px;
+  max-width: 400px;
   margin: 60px auto;
   background: white;
   padding: 30px;
